@@ -1,0 +1,13 @@
+body{
+    background-color: #e8c9a7;
+}
+
+div{
+    background-color: #cedef0;
+    border-radius: 30px;
+    padding:13px;
+}
+
+img{
+    width:200px;
+}
