@@ -1,8 +1,10 @@
 body{
     background-color: #e8c9a7;
+    font-family: cursive;
+
 }
 
-div{
+.noa-box{
     background-color: #cedef0;
     border-radius: 30px;
     padding:13px;
@@ -10,4 +12,8 @@ div{
 
 img{
     width: 200px;
+}
+
+.search{
+    float: right;
 }
