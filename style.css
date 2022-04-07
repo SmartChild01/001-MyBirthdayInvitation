@@ -17,3 +17,8 @@ img{
 .search{
     float: right;
 }
+
+button{
+    font-family: 'Times New Roman', Times, serif;
+    float: right;
+}
